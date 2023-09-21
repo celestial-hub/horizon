@@ -53,8 +53,8 @@ export default function RootLayout({
             <footer className="flex w-full items-center justify-center py-3">
               <Link
                 className="flex items-center gap-1 text-current"
-                href="https://nextui-docs-v2.vercel.app?utm_source=next-app-template"
-                title="nextui.org homepage"
+                href="https://daniel-boll.me"
+                title="Daniel Boll website"
               >
                 <span className="text-default-600">Made by</span>
                 <p className="bg-gradient-to-br from-[#c53030] to-[#ff8a4d] bg-clip-text font-bold text-transparent">
